@@ -1,4 +1,4 @@
-安装步骤：
+安装步骤:  
 1 pip install scrapy  
 2 scrapy startproject maoyanmovie  
 3 cd ./maoyanmovie/maoyanmovie/spiders  
